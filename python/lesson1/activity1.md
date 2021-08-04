@@ -2,7 +2,7 @@
 ### @hideIteration true 
 
 
-# Activity 1 - Which one is right?
+# Pirmā aktivitāte - kurš ir pareizais?
 
 ## Step 1
 Check which one of the commands written on the computer monitors is correct and shows **"Hi"** in the chat when run.
